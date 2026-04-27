@@ -16,9 +16,5 @@ public class StudentStatusBoard {
     System.out.println("");
 
     System.out.println("Status: Successfully Updated. ");
-
-
-
-
   }
 }
