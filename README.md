@@ -55,4 +55,4 @@ A high-energy collection of beginner-friendly Java programs. This repo is a deep
 To build a bulletproof foundation in Java. These projects move beyond syntax, focusing on **how to solve problems** and **user experience**, even within a console window.
 
 ---
-*Created with ☕ and code.*
+*Created with Java☕ and code.*
